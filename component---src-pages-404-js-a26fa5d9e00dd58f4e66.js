@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknovident_srl_website=self.webpackChunknovident_srl_website||[]).push([[883],{429:function(e,t,n){n.r(t);var l=n(7294),a=n(7388),r=n(6302);t.default=()=>l.createElement(l.Fragment,null,l.createElement(r.Z,{title:"404: Not Found"}),l.createElement(a.Z,null,l.createElement("h1",null,"404: Not Found"),l.createElement("p",null,"Non è stato possibile trovare la pagina cercata")))}}]);
+//# sourceMappingURL=component---src-pages-404-js-a26fa5d9e00dd58f4e66.js.map
